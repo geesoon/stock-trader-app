@@ -5,6 +5,7 @@
     <h6>Click on 'End Day' to begin a New Day!</h6>
     <hr />
     <p>Your Funds: {{funds | currency}}</p>
+    <small>This is a static web built by Gee Soon</small>
   </div>
 </template>
 
